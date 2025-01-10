@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    justify-content: space-between;  
+    color: white;
+    background-color: #333;  
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    padding: 15px;
+}
+
+button {
+    background-color: rgb(64, 173, 64);
+    color: white;
+    border: none
+}
+
+- #f6c89f
+- #ffe7d1
+- #4b8e8d
+- #396362
+- #666
+- #333
